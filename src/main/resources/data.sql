@@ -1,7 +1,7 @@
 DELETE FROM login_info;
 
-INSERT INTO login_info VALUES (1, 'luka@gmail.com', 'luka');
-INSERT INTO login_info VALUES (2, 'frane.erja@net.hr', 'frane');
+INSERT INTO login_info VALUES (1, 'testmail@gmail.com', 'main');
+INSERT INTO login_info VALUES (2, 'test.mail@gmail.com', 'mainTwo');
 
 DELETE FROM gta_character;
 
